@@ -1,2 +1,4 @@
-# Student-Management-System
-The Student Management System is a full-stack web application developed using Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST APIs, HTML, CSS, and JavaScript. The main objective of this project is to provide a simple and efficient platform for managing student records digitally. 
+# Spring MVC Tutorial | Spring Boot | Full Course [2021]
+Spring MVC Tutorial | Spring Boot | Full Course [2021] at https://youtu.be/Ku3gsv7_bCc
+
+Blog tutorial at https://www.javaguides.net/2021/05/spring-boot-crud-tutorial.html
